@@ -1,5 +1,5 @@
 # Hello, I'm Daylen! 👋
-
+---
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building with JavaScript, Java, and React. I focus on practical learning and solving real-world challenges through code. Here, you'll find a variety of projects that showcase my work in full-stack development and other areas of interest.
 ---
 
