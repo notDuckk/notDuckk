@@ -15,8 +15,6 @@ A Twitter clone built as part of a group project. This is a beginner-level proje
 A currency converter app that lets users convert currencies and stores their conversion history. It communicates with the [Free Currency API](https://freecurrencyapi.com/). Built using **Express** and **Sequelize** to handle conversions and data storage.
 
 
---
-
 ## 🛠 Technologies I Use
 
 Here are some of the key technologies I work with:
@@ -31,7 +29,7 @@ Here are some of the key technologies I work with:
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -39,8 +37,6 @@ Here are some of the key technologies I work with:
 - [Portfolio](https://yourportfolio.com)
 
 Feel free to check out my repositories and get in touch with me if you’d like to collaborate or discuss exciting projects!
-
----
 
 Thanks for visiting! ✨
 
