@@ -8,7 +8,7 @@ I'm a passionate developer focused on creating practical, real-world solutions. 
 ### [WeatherWiz](https://github.com/notDuckk/weatherApp)
 A simple weather app that uses the [Open Weather Map API](https://openweathermap.org/api) to display weather data based on your location or any city you search. Built using **JavaScript**.
 
-### [Currency Converter](https://github.com/notDuckk/currencyCoverter)
+### [ConvertHub](https://github.com/notDuckk/ConvertHub)
 A currency converter app that lets users convert currencies and stores their conversion history. It communicates with the [Free Currency API](https://freecurrencyapi.com/). Built using **Express** and **Sequelize** to handle conversions and data storage.
 
 ### [Twitter Clone](https://github.com/Wassword/sharespace)
