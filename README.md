@@ -1,9 +1,9 @@
 # Hello, I'm Daylen! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys building with JavaScript, Java, and React. I focus on practical learning and solving real-world challenges through code. Here, you'll find a variety of projects that showcase my work in full-stack development and other areas of interest.
+I'm a passionate developer who thrives on creating practical, real-world solutions. I enjoy working with a variety of technologies, including JavaScript, Java, React, and Node.js, to build full-stack applications that solve problems efficiently. I’m always learning and experimenting with new tools and frameworks, like Spring and Express, to improve my skills and stay up-to-date with industry trends. My focus is on writing clean, maintainable code and building systems that are both functional and scalable.
 
 
-## 📚 Projects
+## 🔧 Projects
 
 ### [Weather App](https://github.com/notDuckk/weatherApp)
 A simple weather app that uses the [Open Weather Map API](https://openweathermap.org/api) to display weather data based on your location or any city you search. Built using **JavaScript**.
@@ -15,7 +15,7 @@ A Twitter clone built as part of a group project. This is a beginner-level proje
 A currency converter app that lets users convert currencies and stores their conversion history. It communicates with the [Free Currency API](https://freecurrencyapi.com/). Built using **Express** and **Sequelize** to handle conversions and data storage.
 
 
-## 🛠 Technologies I Use
+## 💻 Technologies I Use
 
 Here are some of the key technologies I work with:
 
@@ -32,7 +32,7 @@ Here are some of the key technologies I work with:
 
 
 ## 🤝 Let's Connect
-
+ 
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
 - [Portfolio](https://yourportfolio.com)
 
