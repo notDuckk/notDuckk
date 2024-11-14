@@ -1,6 +1,6 @@
 # Hello, I'm Daylen! 👋
 
-I'm a passionate developer who thrives on creating practical, real-world solutions. I enjoy working with a variety of technologies, including JavaScript, Java, React, and Node.js, to build full-stack applications that solve problems efficiently. I’m always learning and experimenting with new tools and frameworks, like Spring and Express, to improve my skills and stay up-to-date with industry trends. My focus is on writing clean, maintainable code and building systems that are both functional and scalable.
+I'm a passionate developer focused on creating practical, real-world solutions. I enjoy working with a variety of technologies to build efficient, full-stack applications. I’m continuously learning and experimenting with new tools and frameworks to sharpen my skills and stay current with industry trends. My goal is to write clean, maintainable code and develop systems that are both functional and scalable.
 
 
 ## 🔧 Projects
