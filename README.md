@@ -9,7 +9,7 @@ I'm a passionate developer focused on creating practical, real-world solutions. 
 A simple weather app that uses the [Open Weather Map API](https://openweathermap.org/api) to display weather data based on your location or any city you search. Built using **JavaScript**.
 
 ### [Twitter Clone](https://github.com/Wassword/sharespace)
-A Twitter clone built as part of a group project. This is a beginner-level project that’s slightly unfinished, but it showcases basic functionality for a social media app. It was a collaborative effort among four developers.
+A Twitter clone currently in progress as part of a group project. This is a beginner-level project that is still under development, but it demonstrates the core functionality of a social media app. The project is a collaborative effort involving four developers.
 
 ### [Currency Converter](https://github.com/notDuckk/currencyCoverter)
 A currency converter app that lets users convert currencies and stores their conversion history. It communicates with the [Free Currency API](https://freecurrencyapi.com/). Built using **Express** and **Sequelize** to handle conversions and data storage.
