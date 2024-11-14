@@ -5,7 +5,7 @@ I'm a passionate developer focused on creating practical, real-world solutions. 
 
 ## 🔧 Projects
 
-### [Weather App](https://github.com/notDuckk/weatherApp)
+### [WeatherWiz](https://github.com/notDuckk/weatherApp)
 A simple weather app that uses the [Open Weather Map API](https://openweathermap.org/api) to display weather data based on your location or any city you search. Built using **JavaScript**.
 
 ### [Twitter Clone](https://github.com/Wassword/sharespace)
