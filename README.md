@@ -35,7 +35,7 @@ Here are some of the key technologies I work with:
 
 ## 🤝 Let's Connect
  
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/daylen-francis-bb9090258/))  
+- [LinkedIn](https://www.linkedin.com/in/daylen-francis-bb9090258/)  
 - [Portfolio](https://yourportfolio.com)
 
 Feel free to check out my repositories and get in touch with me if you’d like to collaborate or discuss exciting projects!
