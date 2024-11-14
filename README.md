@@ -11,7 +11,7 @@ A simple weather app that uses the [Open Weather Map API](https://openweathermap
 ### [ConvertHub](https://github.com/notDuckk/ConvertHub)
 A currency converter app that lets users convert currencies and stores their conversion history. It communicates with the [Free Currency API](https://freecurrencyapi.com/). Built using **Express** and **Sequelize** to handle conversions and data storage.
 
-### [Twitter Clone](https://github.com/Wassword/sharespace)
+### [ShareSpace](https://github.com/Wassword/sharespace)
 A Twitter clone currently in progress as part of a group project. This is a beginner-level project that is still under development, but it demonstrates the core functionality of a social media app. The project is a collaborative effort involving four developers.
 
 
